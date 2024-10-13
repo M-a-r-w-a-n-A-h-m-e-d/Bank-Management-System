@@ -1,6 +1,6 @@
 # Bank Management System 🏦
 
-A comprehensive bank management system developed using Python and Tkinter. This application provides users with an intuitive interface for managing bank account information and includes distinct functionalities tailored for different user roles: **Admin**, **Teller**, and **Customer**.
+A comprehensive bank management system developed using Python and Tkinter. The application provides users with an intuitive interface for managing bank account information and includes distinct functionalities tailored for different user roles: **Admin**, **Teller**, and **Customer**.
 
 ## Features
 
