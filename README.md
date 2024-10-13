@@ -44,7 +44,7 @@ A comprehensive bank management system developed using Python and Tkinter. This 
 
 ## Requirements
 
-- **Python 3.x** 🐍
+- **Python** 🐍
 - **Tkinter** (usually included with Python installations)
 
 ## Installation
