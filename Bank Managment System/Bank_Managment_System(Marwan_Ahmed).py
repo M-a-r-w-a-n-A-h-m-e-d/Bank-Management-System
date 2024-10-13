@@ -57,7 +57,7 @@ class GUi(Bank):
 
     def welcomePage(self):
         self.frameWel = Frame(self.main, background="gold")
-        self.frameWel.place(relx=0.5, rely=0.4, anchor='center')
+        self.frameWel.place(relx=0.5, rely=0.5, anchor='center')
 
         Label(self.frameWel, text='Welcome', font=26).grid(row=0, column=1)
         self.buttonSignUp = Button(
