@@ -30,14 +30,8 @@ class Bank:
         self.address = address
         self.money = money
         self.Log = []
-        self.Tellers = [
-            Teller(1, 123, 'Youssef', 17, 'male',
-                   '123', '01142792790', 'Giza, Egypt', 5000)
-        ]
-        self.Users = [
-            User(1, 123, "hassan", 18, "male", "1234", "011",
-                 "bulaq", 5000, 0, "2524-04-13", "Checking")
-        ]
+        self.Tellers = []
+        self.Users = []
 
 
 class Teller:
