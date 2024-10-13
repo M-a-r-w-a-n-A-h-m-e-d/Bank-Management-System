@@ -47,5 +47,5 @@ A simple bank management system built with Python and Tkinter. This application 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Marwan-Ahmed/bank-management-system.git
+   git clone https://github.com/MarwanAbdelRehem/Bank-Management-System
    cd bank-management-system
